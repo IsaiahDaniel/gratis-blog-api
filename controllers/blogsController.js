@@ -275,18 +275,18 @@ module.exports.updateComment = async (req, res) => {
       (comment) => comment.id === req.params.comment_id
     );
 
-    // const singleCommentId = singleComment[0].id;
+    const singleCommentId = singleComment[0].id;
 
-    // const updatedComment = Blog.findByIdAndUpdate(
-    //   singleCommentId
-    //   {},
-    //   {
-    //     new: true,
-    //     runValidators: true,
-    //   }
-    // );
+    const updatedComment = Blog.findByIdAndUpdate(
+      singleCommentId
+      req.body,
+      {
+        new: true,
+        runValidators: true,
+      }
+    );
 
-    // res.status(201).json({ success: true, data: updatedComment });
+    res.status(201).json({ success: true, data: updatedComment });
   } catch (err) {
     console.log(err.message);
     res.status(500).json({ success: false, msg: "Server Error" });
