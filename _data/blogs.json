@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be045",
+    "title": "React hooks and The context API",
+    "author": "Isaiah Daniel",
+    "snippet": "react-hooks",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolore provident vel quam sapiente aperiam repellendus consequuntur? Accusamus accusantium quae provident deserunt vero fugit corrupti architecto, nesciunt omnis nulla nobis!"
+  },
+  {
+    "_id": "5d713a66ec8f2b88b8f830b8",
+    "user": "5d7a514b5d2c12c7449be046",
+    "title": "Next-js React for Production",
+    "author": "Ruth Daniels",
+    "snippet": "nextjs-hooks",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolore provident vel quam sapiente aperiam repellendus consequuntur? Accusamus accusantium quae provident deserunt vero fugit corrupti architecto, nesciunt omnis nulla nobis!"
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff788",
+    "user": "5c8a1d5b0190b214360dc032",
+    "title": "APIS - Rest API or GraphQL",
+    "author": "cynthia Ibemesi",
+    "snippet": "rest-api",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolore provident vel quam sapiente aperiam repellendus consequuntur? Accusamus accusantium quae provident deserunt vero fugit corrupti architecto, nesciunt omnis nulla nobis!"
+  },
+  {
+    "_id": "5d725a1b7b292f5f8ceff722",
+    "user": "5c8a1d5b0190b214360dc0vf",
+    "title": "Tailwindcss, bootstrap or Material css",
+    "author": "John Doe",
+    "snippet": "tailwind-bootstrap-material-css",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolore provident vel quam sapiente aperiam repellendus consequuntur? Accusamus accusantium quae provident deserunt vero fugit corrupti architecto, nesciunt omnis nulla nobis!"
+  }
+]
